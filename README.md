@@ -53,7 +53,7 @@ Personal portfolio website to showcase my projects.
 
 ## 📫 Contact
 📧 Dhruvguptaji1910@gmail.com  
-🔗 LinkedIn: https:/www.linkedin.com/in/dhruv1910
+🔗 LinkedIn: https:/www.linkedin.com/in/dhruv1910  
 🌐 Portfolio: https://quanta1910.github.io/Quanta19Portfolio/
 
 ---
