@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Dhruv Gupta
 
-<!--
-**Quanta1910/Quanta1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer (HTML • CSS • JavaScript)  
+🚀 Building real‑world responsive web apps  
+🎯 Goal: Grow fast, learn JavaScript & React  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+Currently a frontend developer focused on learning modern web technologies and creating user‑friendly interfaces. I enjoy building projects that look clean and work well.  
+
+---
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- Python (Intermediate)
+- Git & GitHub
+
+---
+
+## 📌 Featured Projects
+### 🔹 **TaskManager**  
+A responsive task manager web app where you can add, delete & manage tasks with filters.
+
+🔗 Live: https://quanta1910.github.io/TaskManager/  
+🧾 Code: https://github.com/Quanta1910/TaskManager
+
+---
+
+### 🔹 **CodeAlpha_ImageGallery**  
+Image gallery with category filtering & lightbox preview features.
+
+🔗 Live: https://quanta1910.github.io/CodeAlpha_ImageGallery/  
+🧾 Code: https://github.com/Quanta1910/CodeAlpha_ImageGallery
+
+---
+
+### 🔹 **Quanta19Portfolio**  
+(in progress)
+Personal portfolio website to showcase my projects.
+
+🔗 Live: https://quanta1910.github.io/Quanta19Portfolio/  
+🧾 Code: https://github.com/Quanta1910/Quanta19Portfolio
+
+---
+
+## 📈 GitHub Stats
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quanta1910&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact
+📧 Dhruvguptaji1910@gmail.com  
+🔗 LinkedIn: https:/www.linkedin.com/in/dhruv1910
+🌐 Portfolio: https://quanta1910.github.io/Quanta19Portfolio/
+
+---
+
+*Thanks for visiting my profile!*
