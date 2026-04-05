@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Dhruv Gupta
 
-💻 Frontend Developer (HTML • CSS • JavaScript)  
+💻 Frontend Developer  
 🚀 Building real‑world responsive web apps  
 🎯 Goal: Grow fast, learn JavaScript & React  
 
 ---
 
 ## 🧠 About Me
-Currently a frontend developer focused on learning modern web technologies and creating user‑friendly interfaces. I enjoy building projects that look clean and work well.  
+focused on learning modern web technologies and creating user‑friendly interfaces. I enjoy building projects that look clean and work well.  
 
 ---
 
@@ -16,7 +16,6 @@ Currently a frontend developer focused on learning modern web technologies and c
 - CSS3
 - JavaScript
 - Python (Intermediate)
-- Git & GitHub
 
 ---
 
