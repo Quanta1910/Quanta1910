@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Dhruv Gupta
 
-💻 Frontend Developer  
-🚀 Building real‑world responsive web apps  
-🎯 Goal: Grow fast, learn JavaScript & React  
+💻 Web Developer  
+🚀 Building real‑world responsive web apps   
 
 ---
 
@@ -15,33 +14,11 @@ focused on learning modern web technologies and creating user‑friendly interfa
 - HTML5
 - CSS3
 - JavaScript
-- Python (Intermediate)
-
----
-
-## 📌 Featured Projects
-### 🔹 **TaskManager**  
-A responsive task manager web app where you can add, delete & manage tasks with filters.
-
-🔗 Live: https://quanta1910.github.io/TaskManager/  
-🧾 Code: https://github.com/Quanta1910/TaskManager
-
----
-
-### 🔹 **CodeAlpha_ImageGallery**  
-Image gallery with category filtering & lightbox preview features.
-
-🔗 Live: https://quanta1910.github.io/CodeAlpha_ImageGallery/  
-🧾 Code: https://github.com/Quanta1910/CodeAlpha_ImageGallery
-
----
-
-### 🔹 **Quanta19Portfolio**  
-(in progress)
-Personal portfolio website to showcase my projects.
-
-🔗 Live: https://quanta1910.github.io/Quanta19Portfolio/  
-🧾 Code: https://github.com/Quanta1910/Quanta19Portfolio
+- Python
+- React/Next.js
+- Flask
+- SQL/MySQL
+- BootStrap
 
 ---
 
@@ -53,7 +30,6 @@ Personal portfolio website to showcase my projects.
 ## 📫 Contact
 📧 Dhruvguptaji1910@gmail.com  
 🔗 LinkedIn: https:/www.linkedin.com/in/dhruv1910  
-🌐 Portfolio: https://quanta1910.github.io/Quanta19Portfolio/
 
 ---
 
