@@ -5,55 +5,45 @@ Full Stack Developer | React • Next.js • Python • Flask • MySQL
 </h3>
 
 <p align="center">
-Building clean, responsive, and user-centric web applications while continuously learning modern technologies and solving real-world problems.
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+Developer;Python+%7C+Flask+Backend;REST+APIs+%7C+JWT+Authentication;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+I enjoy building modern web applications that combine clean user interfaces with secure and scalable backend systems.
+Currently exploring full-stack development through React, Next.js, Flask, REST APIs, Authentication, and SQL while continuously improving my problem-solving skills.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Full Stack Developer passionate about building modern web applications.
-- ⚛️ Frontend experience with **React, Next.js, JavaScript, HTML, and CSS**.
-- 🐍 Backend development using **Python, Flask, and REST APIs**.
-- 🔐 Hands-on experience with **JWT Authentication, Session Management, Password Hashing, and Protected Routes**.
-- 🗄️ Comfortable working with **MySQL & SQL**.
-- 🧩 Solved **300+ coding problems** using **Python** and **JavaScript**.
-- 🤝 Batch Representative at **HyperVerge Academy**.
-- 🌱 Currently exploring **Advanced React, Next.js, Backend Architecture, and System Design**.
+- 💻 Full Stack Developer focused on building practical web applications.
+- ⚛️ Frontend experience with **React, Next.js, JavaScript, HTML & CSS**
+- 🐍 Backend development using **Python, Flask & REST APIs**
+- 🔐 Experienced with **JWT Authentication, Session Management & Password Hashing**
+- 🗄️ Working with **MySQL & SQL**
+- 🧩 Solved **300+ coding problems** in Python & JavaScript
+- 🌱 Currently learning **Advanced React, Next.js & Backend Architecture**
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Languages
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
 </p>
 
-### ⚛️ Frontend
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs" />
+<img src="https://skillicons.dev/icons?i=python,flask" />
 </p>
 
-### 🐍 Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,nodejs,express" />
-</p>
-
-### 🗄️ Database
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🛠 Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
@@ -63,38 +53,72 @@ Building clean, responsive, and user-centric web applications while continuously
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
-| 🎮 **Trivia Battle Game** | Multiplayer trivia game with dynamic API integration, multiple categories, difficulty-based scoring, and multi-round gameplay. | HTML • CSS • JavaScript • Fetch API |
-| 🔐 **Flask Authentication System** | Authentication system with user registration, login, session management, password hashing, and protected routes. | Flask • Python • MySQL |
-| 📝 **Flask Notes API** | Secure REST API implementing JWT Authentication, CRUD operations, protected routes, and MySQL integration. | Flask • JWT • REST API • MySQL |
-| ✅ **TaskFlow** | Task management application supporting CRUD operations with Flask, Jinja2, and MySQL. | Flask • MySQL • HTML • CSS |
-| 🎓 **Student Management System** | CRUD application with Flask Blueprints, validation, flash messages, and MySQL integration. | Flask • MySQL |
-| 📰 **News Explorer** | Search and explore real-time news articles using NewsAPI with a clean React interface. | Next.js • React • API Integration |
+### 🎮 Trivia Battle Game
+
+A multiplayer trivia game built using Vanilla JavaScript featuring multiple categories, difficulty levels, dynamic API integration, score tracking, and multi-round gameplay.
+
+**Tech:** HTML • CSS • JavaScript • Fetch API
 
 ---
 
-## 📊 GitHub Stats
+### 🔐 Flask Authentication System
+
+Authentication system built using Flask and MySQL implementing registration, login, password hashing, session management, protected routes, and flash messages.
+
+**Tech:** Flask • Python • MySQL • Sessions
+
+---
+
+### 📝 Flask Notes API
+
+REST API built using Flask featuring JWT Authentication, CRUD operations, protected routes, MySQL integration, and secure user authentication.
+
+**Tech:** Flask • JWT • REST API • MySQL
+
+---
+
+### ✅ TaskFlow
+
+Task management application built with Flask and MySQL supporting complete CRUD operations with a clean and responsive interface.
+
+**Tech:** Flask • MySQL • Jinja2
+
+---
+
+### 🎓 Student Management System
+
+CRUD application built using Flask and MySQL with validation, Blueprints, flash messages, and error handling.
+
+**Tech:** Flask • MySQL
+
+---
+
+### 📰 News Explorer
+
+Search the latest news articles using NewsAPI with React and Next.js.
+
+**Tech:** Next.js • React • API Integration
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Quanta1910&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Quanta1910&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Quanta1910&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Quanta1910&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 💻 Most Used Languages
+## 📊 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quanta1910&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quanta1910&layout=compact&theme=tokyonight"/>
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Quanta1910&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -103,38 +127,27 @@ Building clean, responsive, and user-centric web applications while continuously
 
 - Advanced React Patterns
 - Next.js
-- Backend Architecture
+- Flask APIs
 - Authentication & Authorization
-- REST API Best Practices
+- Backend Architecture
 - System Design Fundamentals
 
 ---
 
-## 🎯 2026 Goals
-
-- 🚀 Build more production-ready Full Stack applications.
-- 🔐 Explore OAuth, Docker, and deployment workflows.
-- ⚡ Learn TypeScript and deepen Next.js expertise.
-- 📚 Strengthen Data Structures & Algorithms.
-- 💼 Contribute to Open Source Projects.
-
----
-
-## 🤝 Let's Connect
+## 📫 Connect With Me
 
 <p>
-<a href="YOUR_LINKEDIN_URL">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
 </p>
 
 ---
 
-<p align="center">
-<i>"Code. Learn. Improve. Repeat."</i> 🚀
-</p>
-```
+> *"Code. Learn. Improve. Repeat."* 🚀
