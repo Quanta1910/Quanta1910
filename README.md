@@ -105,9 +105,9 @@ Search the latest news articles using NewsAPI with React and Next.js.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Quanta1910&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Quanta1910&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Quanta1910&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=Quanta1910&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 
@@ -117,7 +117,7 @@ Search the latest news articles using NewsAPI with React and Next.js.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quanta1910&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quanta1910&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 
