@@ -11,27 +11,4 @@ Currently exploring full-stack development through React, Next.js, Flask, REST A
 
 ---
 
-## 👨‍💻 About Me
-
-- 💻 Full Stack Developer focused on building practical web applications.
-- ⚛️ Frontend experience with **React, Next.js, JavaScript, HTML & CSS**
-- 🐍 Backend development using **Python, Flask & REST APIs**
-- 🔐 Experienced with **JWT Authentication, Session Management & Password Hashing**
-- 🗄️ Working with **MySQL & SQL**
-- 🧩 Solved **300+ coding problems** in Python & JavaScript
-- 🌱 Currently learning **Advanced React, Next.js & Backend Architecture**
-
----
-
-## 🌱 Currently Learning
-
-- Advanced React Patterns
-- Next.js
-- Flask APIs
-- Authentication & Authorization
-- Backend Architecture
-- System Design Fundamentals
-
----
-
 > *"Code. Learn. Improve. Repeat."* 🚀
